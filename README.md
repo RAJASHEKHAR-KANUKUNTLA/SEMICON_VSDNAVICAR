@@ -14,6 +14,7 @@ TEAM VSD SAFE VISIONARIES
 - [Image of the SEMICON_VSDNAVICAR](#Image-of-the-SEMICON-VSDNAVICAR)
 - [Demonstration Video of the SEMICON_VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
 - [Conclusion](#Conclusion)
+- [Representation of VSDNAVICAR at SEMICON INDIA Event 2024](#Representation-of-VSDNAVICAR-at-SEMICON-INDIA-Event-2024)
 - [Acknowledgement](#Acknowledgement)
 - [Author](#Author)
 # Introduction to the VSDSquadron Mini 
@@ -263,8 +264,11 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 ![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
 
+![ss9](https://github.com/user-attachments/assets/3a5eb07b-97a7-4736-a93f-8663b96ac9e2)
+
 
 ![ss2](https://github.com/user-attachments/assets/a868a0bb-b81e-491e-9174-ae1d21c9332b)
+
 
 ![ss3](https://github.com/user-attachments/assets/435429bb-ca59-4dc8-abd5-9d76cdb353f4)
 
@@ -272,9 +276,15 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
 
+![ss10](https://github.com/user-attachments/assets/6539c2ed-f464-4c61-9d1e-7ca72010f69f)
+
+![ss11](https://github.com/user-attachments/assets/d533de82-0cb3-42b3-8142-139b3be76b2f)
+
+
 ![ss5](https://github.com/user-attachments/assets/ed896e7c-7bae-47b4-b183-c874e5c34097)
 
 ![ss1](https://github.com/user-attachments/assets/d9396582-7133-4298-94b9-810223f5772b)
+
 
 
 
